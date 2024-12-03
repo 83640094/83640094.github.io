@@ -1,13 +1,13 @@
 # Site settings
-title: Will Wang's Blog
+title: yimeng say's Blog
 SEOTitle: 一萌说的博客
 header-img: img/post-bg-index.jpg
 email: wzbcode@163.com
 description: "Every failure is leading towards success."
-keyword: "一萌说的博客, Will Wang, 一萌说, Java"
+keyword: "一萌说的博客, 一萌说, 一萌说, Java"
 url: "https://83640094.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
+github_repo: "https://github.com/83640094/83640094.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -62,9 +62,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: ae47d898c3d118b467be                            #生成的clientID
   clientSecret: c30e8df95d413ec73785dea5b4237424165f77c7    #生成的clientSecret
-  repo: flyingwzb.github.io    #仓库名称
-  owner: flyingwzb    #github用户名
-  admin: flyingwzb
+  repo: 83640094.github.io    #仓库名称
+  owner: 83640094    #github用户名
+  admin: 83640094
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
